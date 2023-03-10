@@ -1,0 +1,58 @@
+body{
+    /*ponerle color al fondo*/
+    background-color: #acce9b;
+
+    
+    /* fuentes*/
+    font-family: 'Handlee', cursive;
+
+} 
+h1{
+   font-family: 'Rampart One', cursive; 
+   
+}
+img{
+    width: 200px; /*ancho */
+    height: 200px; /*largo*/
+    padding: 20px; 
+    margin: 20px;
+}
+footer{
+    background-color:#335549 ; 
+    color: blanchedalmond; 
+    padding: 10px;
+    text-align: right;    
+    
+}
+footer a { 
+    /*cambio de color en el hipervinculo del footer*/
+    color: #acce9b; 
+}
+a {
+    color: #264742;
+
+}
+#iconocapi { /*modificar el icono del footer*/ 
+    display: flex;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+    
+  }
+  
+  #iconocapi img {
+    margin-right: 10px;
+    
+  }
+  hr {
+    border: none;
+    height: 20px;
+    background-color: #4b6f5a;
+    margin: 20px 0;
+  }
+  
+  
+
+
+ 
