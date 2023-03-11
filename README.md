@@ -24,4 +24,4 @@ En este proyecto me enfoqué en construir una paina de divulacion acerca de los 
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://app.netlify.com/sites/clonagugul/overview)
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://clonagugul.netlify.app/)
