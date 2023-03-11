@@ -16,7 +16,7 @@ En este proyecto me enfoqué en construir una paina de divulacion acerca de los 
 
 * Header: Sección que contiene lel titulo de la pagina.
 
-* Body: Sección que incluye las imagesnes, parrafos, listas ordenadas y listas no ordenadas, asi como las opciones de "check box".
+* Body: Sección que incluye las imagenes, parrafos, listas ordenadas y listas no ordenadas, asi como las opciones de "check box".
 
 * Footer: Sección que incluye hipervínculos al final de la página.
 
@@ -24,4 +24,4 @@ En este proyecto me enfoqué en construir una paina de divulacion acerca de los 
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://clonagugul.netlify.app/)
+Aquí puedes visualizar mi proyecto terminado: [Pagina de capibaras](https://incredible-capybara-8fd4b3.netlify.app)
