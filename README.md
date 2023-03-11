@@ -1,6 +1,6 @@
 #Pagina hecha para practicar HTML y CSS
 
-## **ÏNDICE**
+## **ÍNDICE**
 * [1. Intro](#)
 * [2. Qué construí](#)
 * [3. Objetivo del proyecto](#)
@@ -12,11 +12,11 @@ HTML5 trabaja de la mano con CCS3 para crear páinas web que utilizamos todos lo
 
 ## 2. Qué construí
 
-En este proyecto me enfoqué en construir la clonación de la interfaz de Google. Contiene las siguientes secciones:
+En este proyecto me enfoqué en construir una paina de divulacion acerca de los animales llamados capibaras. Contiene las siguientes secciones:
 
-* Header: Sección que involucra la foto de mi perfil, iconos y el menú con hipervínculos.
+* Header: Sección que contiene lel titulo de la pagina.
 
-* Main: Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones.
+* Body: Sección que incluye las imagesnes, parrafos, listas ordenadas y listas no ordenadas, asi como las opciones de "check box".
 
 * Footer: Sección que incluye hipervínculos al final de la página.
 
@@ -24,4 +24,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](#)
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://app.netlify.com/sites/clonagugul/overview)
